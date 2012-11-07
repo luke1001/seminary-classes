@@ -1,4 +1,0 @@
-markdown: maruku
-pygments: true
-permalink: /:year/:month/:day/:title.html
-name: setImpl
